@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+}
+
+.square{
+    display: inline-block;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 500px;
+    width: 960px;
+    font-size: 0;
+    margin: auto;
+}
